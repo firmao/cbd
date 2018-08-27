@@ -1,0 +1,6 @@
+<http://purl.org/NET/marccodes/countries/wlk#location> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wales@en"^^<http://www.w3.org/1999/02/22-rdf-syntax-ns#langString> .
+<http://purl.org/NET/marccodes/countries/wlk#location> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2003/01/geo/wgs84_pos#SpatialThing> .
+<http://purl.org/NET/marccodes/countries/wlk#location> <http://www.w3.org/2004/02/skos/core#notation> "wlk"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://purl.org/NET/marccodes/countries/wlk#location> <http://purl.org/dc/terms/isPartOf> <http://purl.org/NET/marccodes/countries/regions/3#location> .
+<http://purl.org/NET/marccodes/countries/regions/3#location> <http://purl.org/dc/terms/hasPart> <http://purl.org/NET/marccodes/countries/wlk#location> .
+<http://purl.org/NET/marccodes/countries/wlk#location> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .

@@ -1,0 +1,5 @@
+<http://nsf.rkbexplorer.com/id/person-2fe3d654fd7299f934210c1e408fe195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.aktors.org/ontology/portal#Person> .
+<http://nsf.rkbexplorer.com/id/person-2fe3d654fd7299f934210c1e408fe195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Thing> .
+<http://nsf.rkbexplorer.com/id/person-2fe3d654fd7299f934210c1e408fe195> <http://www.aktors.org/ontology/portal#full-name> "Gerald Sussman"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://nsf.rkbexplorer.com/id/person-2fe3d654fd7299f934210c1e408fe195> <http://www.aktors.org/ontology/portal#family-name> "Sussman"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://nsf.rkbexplorer.com/id/person-2fe3d654fd7299f934210c1e408fe195> <http://www.aktors.org/ontology/portal#given-name> "Gerald"^^<http://www.w3.org/2001/XMLSchema#string> .
